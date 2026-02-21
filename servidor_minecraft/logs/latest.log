@@ -1,0 +1,90 @@
+[00:30:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:30:07] [ServerMain/INFO]: Loaded 1290 recipes
+[00:30:07] [ServerMain/INFO]: Loaded 1399 advancements
+[00:30:08] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:30:08] [Server thread/INFO]: Loading properties
+[00:30:08] [Server thread/INFO]: Default game type: SURVIVAL
+[00:30:08] [Server thread/INFO]: Generating keypair
+[00:30:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:30:08] [Server thread/INFO]: Using epoll channel type
+[00:30:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:30:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:30:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:30:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:30:08] [Server thread/INFO]: Preparing level "world"
+[00:30:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:30:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:30:11] [Server thread/INFO]: Time elapsed: 475 ms
+[00:30:11] [Server thread/INFO]: Done (2.841s)! For help, type "help"
+[00:30:18] [Server thread/INFO]: _Sebas23_[/192.168.192.23:35519] logged in with entity id 8 at (-568.5795655922379, 3.0, -2594.8837215729122)
+[00:30:18] [Server thread/INFO]: _Sebas23_ joined the game
+[00:30:57] [Server thread/INFO]: chepaboy[/192.168.192.161:59856] logged in with entity id 390 at (-574.3843043888677, 3.0, -2600.453096336639)
+[00:30:57] [Server thread/INFO]: chepaboy joined the game
+[00:33:31] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:33:31] [Server thread/INFO]: _Sebas23_ left the game
+[00:33:45] [Server thread/INFO]: _Sebas23_[/192.168.192.23:29031] logged in with entity id 1106 at (-507.5422862434597, 2.0, -2559.4894866842005)
+[00:33:45] [Server thread/INFO]: _Sebas23_ joined the game
+[00:34:08] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:34:08] [Server thread/INFO]: _Sebas23_ left the game
+[00:34:23] [Server thread/INFO]: _Sebas23_[/192.168.192.23:29042] logged in with entity id 1276 at (-528.3847732428653, -5.0, -2552.773788963941)
+[00:34:23] [Server thread/INFO]: _Sebas23_ joined the game
+[00:36:35] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:36:35] [Server thread/INFO]: _Sebas23_ left the game
+[00:36:36] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[00:36:36] [Server thread/INFO]: chepaboy left the game
+[00:36:45] [Server thread/INFO]: _Sebas23_[/192.168.192.23:59018] logged in with entity id 1916 at (-498.69999998807907, -41.0, -2463.6645716171784)
+[00:36:45] [Server thread/INFO]: _Sebas23_ joined the game
+[00:38:09] [Server thread/INFO]: chepaboy[/192.168.192.161:60302] logged in with entity id 2557 at (-474.40235454469484, -41.0, -2457.136134193719)
+[00:38:09] [Server thread/INFO]: chepaboy joined the game
+[00:38:35] [Server thread/INFO]: [Not Secure] <_Sebas23_> a
+[00:38:37] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:38:37] [Server thread/INFO]: _Sebas23_ left the game
+[00:38:48] [Server thread/INFO]: _Sebas23_[/192.168.192.23:15615] logged in with entity id 2759 at (-536.7701679254774, -42.0, -2483.5420870729404)
+[00:38:48] [Server thread/INFO]: _Sebas23_ joined the game
+[00:40:43] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[00:40:43] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[00:40:43] [Server thread/INFO]: _Sebas23_ left the game
+[00:40:43] [Server thread/WARN]: handleDisconnection() called twice
+[00:41:14] [Server thread/INFO]: _Sebas23_[/192.168.192.23:7122] logged in with entity id 3304 at (-441.4222098202588, -24.833890739061786, -2537.632054193095)
+[00:41:14] [Server thread/INFO]: _Sebas23_ joined the game
+[00:43:46] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:43:46] [Server thread/INFO]: _Sebas23_ left the game
+[00:43:55] [Server thread/INFO]: _Sebas23_[/192.168.192.23:27737] logged in with entity id 4044 at (-433.13645845015395, -50.0, -2625.3111386192795)
+[00:43:55] [Server thread/INFO]: _Sebas23_ joined the game
+[00:45:46] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:45:46] [Server thread/INFO]: _Sebas23_ left the game
+[00:46:02] [Server thread/INFO]: _Sebas23_[/192.168.192.23:65191] logged in with entity id 4573 at (-395.5122354050726, -26.0, -2594.3058759323917)
+[00:46:02] [Server thread/INFO]: _Sebas23_ joined the game
+[00:47:23] [Server thread/INFO]: _Sebas23_ has made the advancement [Take Aim]
+[00:47:54] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[00:47:54] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[00:47:54] [Server thread/INFO]: _Sebas23_ left the game
+[00:48:10] [Server thread/INFO]: _Sebas23_[/192.168.192.23:51593] logged in with entity id 5482 at (-356.2524038529424, -15.998664020887851, -2619.424868131634)
+[00:48:10] [Server thread/INFO]: _Sebas23_ joined the game
+[00:49:55] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:49:55] [Server thread/INFO]: _Sebas23_ left the game
+[00:50:20] [Server thread/INFO]: _Sebas23_[/192.168.192.23:51642] logged in with entity id 6023 at (-369.7064115624947, -11.504799122994086, -2691.7895448821732)
+[00:50:20] [Server thread/INFO]: _Sebas23_ joined the game
+[00:53:58] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:53:58] [Server thread/INFO]: _Sebas23_ left the game
+[00:54:22] [Server thread/INFO]: _Sebas23_[/192.168.192.23:50480] logged in with entity id 6983 at (-328.80645752953257, 15.0, -2717.9373506033635)
+[00:54:22] [Server thread/INFO]: _Sebas23_ joined the game
+[00:57:06] [Server thread/INFO]: [Not Secure] <_Sebas23_> a
+[00:57:08] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:57:08] [Server thread/INFO]: _Sebas23_ left the game
+[00:57:17] [Server thread/INFO]: _Sebas23_[/192.168.192.23:1870] logged in with entity id 7507 at (-305.80888342509166, 37.0, -2677.4749253243044)
+[00:57:17] [Server thread/INFO]: _Sebas23_ joined the game
+[00:59:10] [Server thread/INFO]: [Not Secure] <chepaboy> -305 -2708
+[01:05:18] [Server thread/WARN]: _Sebas23_ moved too quickly! -8.513136432561055,-0.1199608614270602,5.815849506223458
+[01:05:22] [Server thread/INFO]: [Not Secure] <_Sebas23_> a
+[01:07:03] [Server thread/INFO]: Stopping the server
+[01:07:03] [Server thread/INFO]: Stopping server
+[01:07:03] [Server thread/INFO]: Saving players
+[01:07:03] [Server thread/INFO]: Saving worlds
+[01:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
